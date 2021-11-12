@@ -21,7 +21,7 @@
 * shift-c: delete rest of line and insert
 * shift-s: delete line and insert
 
-## Navigation
+## navigation
 * ctrl-P: fzf GFiles (git ls-files)
 * `<space>-gd`: get definition (fzf)
 * `<space>-gr`: get references (fzf)

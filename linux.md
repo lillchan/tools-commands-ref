@@ -1,10 +1,10 @@
 # linux
-# chmod
+## chmod
 * 3 groups (in this order): user, group, other
 * 3 permission levels: read (r), write (w), execute (x)
 * TODO: modifying permissions
 
-# random
+## random
 ```bash
 # how long has my computer been running
 $ uptime

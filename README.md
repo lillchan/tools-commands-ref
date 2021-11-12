@@ -3,6 +3,7 @@ Quick reference/notes on tools and commands.
 
 * [aws](aws.md)
 * [bash](bash.md)
+* [git](git.md)
 * [cidr notation](cidr.md)
 * [k8s](k8s.md)
 * [linux](linux.md)
@@ -20,6 +21,7 @@ Quick reference/notes on tools and commands.
   * sed
   * jq
 * vimium
+* dot files
 
 # tools
 * [fzf](https://github.com/junegunn/fzf)
